@@ -2,33 +2,40 @@
     display: block;
     position: absolute;
     z-index: 1;
-    left: 60px;
-    top: 250px;
-    padding: 20px;
+    padding: 35px;
+    margin: 35px;
+    left: 35px;
     border-radius: 100%;
     border: 30px solid white;
-    background-color:blue;
+    background-color:green
 }
 .name {
     display: block;
 }
-.desc {
-    display: block
-    text-align: center
-}
 h1 {
     text-align: center;
+    margin: 35px;
+    padding: 35px;
 }
 h2 {
+    display: block;
     background: black; color: white;
     font-size: medium;
     text-align: center;
-    margin-top: 20px;
-    line-height: 700%;
+    line-height: 800%;
+    margin: 35px;
+    padding: 35px;
+    
+
 }
-ol {
+.lista {
     text-align: center;
-    color: white
+    padding: 35px;
+    margin: 35px;
+}
+a:hover {
+color: white;
+background-color: green;
 }
 p {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -36,4 +43,11 @@ p {
     line-height: 2.5em;
     text-align: center;
     background-color: white
+}
+.linkedin-center a {
+    display: block;
+    text-align: center;
+}
+.colorgreen {
+    color: green;
 }
