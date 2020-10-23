@@ -1,0 +1,31 @@
+.pic {
+    display: block;
+}
+.name {
+    display: block;
+}
+.desc {
+    display: block
+}
+h1 {
+    text-align: center;
+}
+h2 {
+    background: black; color: white;
+    text-align: center
+}
+ol {
+    text-align: center;
+    color: white
+}
+img.center {
+    display: block;
+    margin: 0 auto;
+}
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    line-height: 2.5em;
+    text-align: center;
+    background-color: white
+}
